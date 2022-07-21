@@ -7,8 +7,8 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(38, 69%, 59%);
-  --text-color: hsl(38, 8%, 8%);
+  --first-color: #030303);
+  --text-color: #55ff00;
 
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
@@ -164,7 +164,7 @@ img {
   display: inline-block;
   background-color: var(--text-color);
   color: #fff;
-  padding: .80rem 1.5rem;
+  padding: #000000;
   border-radius: 3rem;
   transition: .4s;
 }
