@@ -163,8 +163,8 @@ img {
   margin-top: 2rem;
   display: inline-block;
   background-color: var(--text-color);
-  color: #fff;
-  padding: #000000;
+  color: #000000;
+  padding: .80rem 1.5rem;
   border-radius: 3rem;
   transition: .4s;
 }
